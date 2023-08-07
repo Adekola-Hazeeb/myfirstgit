@@ -1,0 +1,15 @@
+C:\Users\Adekola Hazeeb\Desktop\JH\bin\Debug\net6.0\JH.exe
+C:\Users\Adekola Hazeeb\Desktop\JH\bin\Debug\net6.0\JH.deps.json
+C:\Users\Adekola Hazeeb\Desktop\JH\bin\Debug\net6.0\JH.runtimeconfig.json
+C:\Users\Adekola Hazeeb\Desktop\JH\bin\Debug\net6.0\JH.dll
+C:\Users\Adekola Hazeeb\Desktop\JH\bin\Debug\net6.0\JH.pdb
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.csproj.AssemblyReference.cache
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.AssemblyInfoInputs.cache
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.AssemblyInfo.cs
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.csproj.CoreCompileInputs.cache
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.dll
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\refint\JH.dll
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.pdb
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\JH.genruntimeconfig.cache
+C:\Users\Adekola Hazeeb\Desktop\JH\obj\Debug\net6.0\ref\JH.dll
